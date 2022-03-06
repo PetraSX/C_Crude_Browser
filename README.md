@@ -36,3 +36,4 @@ We had 4 tasks, each of them implements a function for the final task, where a G
 - The last task uses the Ncurses library to build a GUI and all the information that is read or shown appears in the application 
     (like a real browser would do)
 ```
+![menubar](/screenshots/menubar.png)
