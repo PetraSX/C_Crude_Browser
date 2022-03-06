@@ -37,3 +37,4 @@ We had 4 tasks, each of them implements a function for the final task, where a G
     (like a real browser would do)
 ```
 ![menubar](/screenshots/menubar.png)
+![searchbar](/screenshots/searchbar.png)
